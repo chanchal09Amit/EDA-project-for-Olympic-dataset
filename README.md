@@ -1,1 +1,1 @@
-# EDA-project-for-Olumpic-dataset
+# EDA-project-for-Olympic-dataset
